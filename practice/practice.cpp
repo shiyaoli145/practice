@@ -16,7 +16,7 @@ int main()
 	}
 	else if (grade < 80)
 	{
-		printf("prize is a beat");
+		printf("prize is a book");
 	}
 	return 0;
 
